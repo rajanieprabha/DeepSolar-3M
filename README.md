@@ -3,6 +3,8 @@
 ### County-Level PV System Data
 
 This dataset provides aggregated statistics for photovoltaic (PV) systems at the county level. The data includes information such as the total number of PV systems, total PV area, median and average PV area, and the percentage of systems by type (e.g., residential, commercial) for each county.
+
+
 **County-Level Aggregation**:
    - county FIPS code.
    - Aggregated the data at the county level to calculate:
