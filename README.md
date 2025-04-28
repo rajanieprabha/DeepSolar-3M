@@ -47,6 +47,7 @@ Stay tuned!
 
 If you find this resource useful, please cite:
 
+```
 @inproceedings{prabha2025deepsolar3m,
   title={DeepSolar-3M: An AI-Enabled Solar PV Database Documenting 3 Million Systems Across the US},
   author={Prabha, Rajanie and Wang, Zhecheng and Zanocco, Chad and Flora, June and Rajagopal, Ram },
@@ -54,5 +55,15 @@ If you find this resource useful, please cite:
   url={https://www.climatechange.ai/papers/iclr2025/55},
   year={2025}
 }
+
+```
+---
+
+
+---
+
+## Contact
+
+Feel free to reach out in case you have any questions - ```rajanie@stanford.edu``` 
 
 ---
