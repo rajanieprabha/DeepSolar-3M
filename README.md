@@ -36,6 +36,27 @@ Each entry corresponds to a U.S. county (identified by FIPS code) and includes:
 
 ---
 
+## 🗺️ Block Group-Level Dataset
+
+Each entry corresponds to a U.S. Census block group (identified by GEOID/Block Group FIPS) and includes all the features listed above.
+
+---
+
+## 🛰️ Solar Models (`solar_models/`)
+
+This folder contains code and utilities for running the DeepSolar-3M segmentation and detection models on new imagery.
+
+**Subfolders:**
+- `src/` — Inference notebook and dataloader script.
+- `data_folder/` — Example input images for testing.
+
+### Downloading Model Weights
+
+You can download the required model files from our [Google Drive link](https://drive.google.com/drive/folders/1f7HNsncANmPvy1BfMoazgbaIs1b8TVFc?usp=drive_link).
+
+---
+
+
 ## 🚧 Status
 
 We are actively expanding this repository.
