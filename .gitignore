@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+solar_models/detection_model/*
+solar_models/segmentation_model/*
+.DS_Store
 
 # C extensions
 *.so
