@@ -1,7 +1,5 @@
 # DeepSolar-3M
 
-**🔨 Repo under active construction**
-
 **📄 Paper:** [DeepSolar-3M: An AI-Enabled Solar PV Database Documenting 3 Million Systems Across the US](https://s3.us-east-1.amazonaws.com/climate-change-ai/papers/iclr2025/55/paper.pdf)  
 **📍 Conference:** [ICLR 2025 - Tackling Climate Change with Machine Learning Workshop](https://www.climatechange.ai/papers/iclr2025/55)
 
@@ -53,14 +51,6 @@ This folder contains code and utilities for running the DeepSolar-3M segmentatio
 ### Downloading Model Weights
 
 You can download the required model files from our [Google Drive link](https://drive.google.com/drive/folders/1f7HNsncANmPvy1BfMoazgbaIs1b8TVFc?usp=drive_link).
-
----
-
-
-## 🚧 Status
-
-We are actively expanding this repository.
-Stay tuned!
 
 ---
 
