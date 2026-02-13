@@ -60,16 +60,16 @@ If you find this resource useful, please cite:
 
 ```
 @article{PRABHA2026127411,
-title = {Nationwide insights on solar deployment trends and spatial inequalities revealed by vision transformer models},
-journal = {Applied Energy},
-volume = {408},
-pages = {127411},
-year = {2026},
-issn = {0306-2619},
-doi = {https://doi.org/10.1016/j.apenergy.2026.127411},
-url = {https://www.sciencedirect.com/science/article/pii/S0306261926000632},
-author = {Rajanie Prabha and Zhecheng Wang and Chad Zanocco and June Flora and Ram Rajagopal},
-keywords = {Solar energy, Solar PV adoption, Deep learning, Vision transformers, Lorenz curve, Spatial inequality, Energy policy},
+  title = {Nationwide insights on solar deployment trends and spatial inequalities revealed by vision transformer models},
+  journal = {Applied Energy},
+  volume = {408},
+  pages = {127411},
+  year = {2026},
+  issn = {0306-2619},
+  doi = {https://doi.org/10.1016/j.apenergy.2026.127411},
+  url = {https://www.sciencedirect.com/science/article/pii/S0306261926000632},
+  author = {Rajanie Prabha and Zhecheng Wang and Chad Zanocco and June Flora and Ram Rajagopal},
+  keywords = {Solar energy, Solar PV adoption, Deep learning, Vision transformers, Lorenz curve, Spatial inequality, Energy policy},
 }
 
 @inproceedings{prabha2025deepsolar3m,
