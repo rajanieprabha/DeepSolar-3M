@@ -59,6 +59,19 @@ You can download the required model files from our [Google Drive link](https://d
 If you find this resource useful, please cite:
 
 ```
+@article{PRABHA2026127411,
+title = {Nationwide insights on solar deployment trends and spatial inequalities revealed by vision transformer models},
+journal = {Applied Energy},
+volume = {408},
+pages = {127411},
+year = {2026},
+issn = {0306-2619},
+doi = {https://doi.org/10.1016/j.apenergy.2026.127411},
+url = {https://www.sciencedirect.com/science/article/pii/S0306261926000632},
+author = {Rajanie Prabha and Zhecheng Wang and Chad Zanocco and June Flora and Ram Rajagopal},
+keywords = {Solar energy, Solar PV adoption, Deep learning, Vision transformers, Lorenz curve, Spatial inequality, Energy policy},
+}
+
 @inproceedings{prabha2025deepsolar3m,
   title={DeepSolar-3M: An AI-Enabled Solar PV Database Documenting 3 Million Systems Across the US},
   author={Prabha, Rajanie and Wang, Zhecheng and Zanocco, Chad and Flora, June and Rajagopal, Ram },
