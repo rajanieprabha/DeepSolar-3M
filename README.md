@@ -83,6 +83,11 @@ If you find this resource useful, please cite:
 ```
 ---
 
+## License
+
+Code in this repository is licensed under Apache-2.0.
+
+Dataset files in this repository are licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
 
 ---
 
